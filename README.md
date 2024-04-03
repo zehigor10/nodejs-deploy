@@ -1,7 +1,2 @@
-First deploy from server Node.JS 
-
-Only two requests: 
-
-POST: /users / request.body: {name, email} 
-<br>
-GET: /users / response: Array from users [{id, name, email, createdAt}]
+# Node.JS Deploy
+Launching a first Node.JS application, during the rocketseat course, creating and hosting the server at render cloud, using ORM Prisma to working and interacting with database, zod to validate schema e props on backend and server created with fastify. 
